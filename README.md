@@ -20,7 +20,7 @@ Repository ini berisi **proyek Website Jadwal Dosen** yang dirancang untuk memba
 
 Klik logo di bawah ini untuk membuka aplikasi:
 
-[![Google Apps Script - Jadwal Dosen](https://img.shields.io/badge/Google%20Apps%20Script-Jadwal%20Dosen-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com/macros/s/AKfycbyEIN6yaB6dV7J9qPs3Hwy3zjFQXgqFYf_d6227VrmdlC32CD2iI99VuwMFcU2QDX4k/exec)
+[![Google Apps Script - Jadwal Dosen](https://img.shields.io/badge/Google%20Apps%20Script-Jadwal%20Dosen-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com/macros/s/AKfycbzoz3Dy6JOcAfFNIYMcHog9oTrhwEyyPqRuOqWDjpA/dev)
 
 ---
 
