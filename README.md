@@ -4,6 +4,9 @@ Repository ini berisi tiga proyek sistem berbasis web yang dikembangkan mengguna
 
 Semua sistem berjalan berbasis cloud tanpa membutuhkan server hosting tambahan.
 
+Medium
+https://medium.com/@amadeusrizz
+
 ---
 
 # 🏫 1️⃣ Website Jadwal Dosen
