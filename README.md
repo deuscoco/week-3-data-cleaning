@@ -1,74 +1,78 @@
-## 📅 Proyek Website Jadwal Dosen
+# ☁️ Google Apps Script Web System Suite
 
-Repository ini berisi **proyek Website Jadwal Dosen** yang dirancang untuk membantu pengelolaan dan penampilan jadwal mengajar secara **terstruktur, mudah diakses, dan efisien** menggunakan Google Apps Script.
+Repository ini berisi tiga proyek sistem berbasis web yang dikembangkan menggunakan **Google Apps Script** dan terintegrasi langsung dengan **Google Spreadsheet sebagai database**.
 
-### 🎯 Tujuan Proyek
-- Menyediakan tampilan jadwal dosen yang **jelas dan informatif**
-- Mengurangi kesalahan pencatatan jadwal manual
-- Mempermudah mahasiswa dan dosen dalam mengakses jadwal
-- Mengintegrasikan data secara **dinamis & real-time** melalui Google Spreadsheet
-
-### ⚙️ Teknologi Utama
-- HTML & CSS (Frontend tampilan)
-- JavaScript (Interaksi data)
-- **Google Apps Script** (Backend & pengolahan data)
-- Google Spreadsheet (Database)
+Semua sistem berjalan berbasis cloud tanpa membutuhkan server hosting tambahan.
 
 ---
 
-## 🔗 Akses Aplikasi Jadwal Dosen
+# 🏫 1️⃣ Website Jadwal Dosen
 
-Klik logo di bawah ini untuk membuka aplikasi:
+Sistem informasi akademik berbasis web yang digunakan untuk menampilkan dan mengelola jadwal dosen secara **terstruktur, dinamis, dan real-time**.
 
-[![Google Apps Script - Jadwal Dosen](https://img.shields.io/badge/Google%20Apps%20Script-Jadwal%20Dosen-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com/macros/s/AKfycbzoz3Dy6JOcAfFNIYMcHog9oTrhwEyyPqRuOqWDjpA/dev)
+## 🎯 Tujuan
+- Digitalisasi jadwal dosen
+- Mengurangi kesalahan pencatatan manual
+- Menampilkan jadwal otomatis dari spreadsheet
+- Simulasi sistem akademik berbasis cloud
 
+## 🧩 Fitur Utama
+- 📅 Tampilan jadwal dosen
+- 🔎 Filter berdasarkan hari / nama dosen
+- 🔄 Update data otomatis dari Google Sheet
+- 🌐 Hosting langsung via Apps Script
+
+## 🔗 Akses Aplikasi
+https://script.google.com/macros/s/AKfycbwtbXeR5wkRlpJ5yXG_OM96TGHdcR7abAhoCc2zEEPxowrphc2plDarwl4qO9vpIeqS/exec
 ---
 
-<br>
+# ☕ 2️⃣ Web Kasir Kafe (Point of Sale System)
 
-# ☕ Proyek Web Kasir Kafe (Point of Sale System)
+Sistem kasir berbasis web yang dirancang untuk membantu pengelolaan transaksi penjualan pada UMKM atau kafe kecil.
 
-Selain sistem akademik, repository ini juga berisi **Web Kasir Kafe berbasis Google Apps Script** yang dirancang untuk membantu pengelolaan transaksi penjualan secara digital.
+Semua transaksi tersimpan otomatis ke Google Spreadsheet secara real-time.
 
-Sistem ini mensimulasikan kebutuhan UMKM atau kafe dalam mengelola transaksi, produk, dan laporan penjualan secara otomatis berbasis cloud.
-
----
-
-### 🎯 Tujuan Proyek
+## 🎯 Tujuan
 - Digitalisasi sistem kasir manual
-- Mencatat transaksi otomatis ke Google Spreadsheet
-- Mengelola data produk secara terpusat
-- Menyediakan rekap penjualan sederhana
-- Membangun sistem POS berbasis web tanpa hosting tambahan
+- Pencatatan transaksi otomatis
+- Manajemen produk terpusat
+- Rekap penjualan sederhana
 
-### ⚙️ Teknologi Utama
-- HTML, CSS (Tampilan Kasir)
-- JavaScript (Logika transaksi & perhitungan)
-- **Google Apps Script** (Backend & penyimpanan data)
-- Google Spreadsheet (Database Produk & Transaksi)
+## 🧩 Fitur Utama
+- 🔐 Login (single role)
+- 🛒 Input & pencarian produk
+- 🧾 Cetak struk sederhana
+- 📊 Rekap transaksi harian
+- 🏷️ Dukungan barcode
+- 📡 Penyimpanan otomatis ke Google Sheet
+
+## 🔗 Akses Aplikasi
+https://script.google.com/macros/s/AKfycbxcssr8hhE99XgHTMVu7EGjSgOZGXbr9alpuwiE7BHPmQ5eNOGPhIaXM5Aw6vH0vxjMcA/exec
+---
+
+# 📝 3️⃣ Web Absensi
+
+Sistem absensi berbasis web yang digunakan untuk mencatat kehadiran secara digital dan otomatis.
+
+Data absensi langsung tersimpan di Google Spreadsheet lengkap dengan timestamp.
+
+## 🎯 Tujuan
+- Digitalisasi absensi manual
+- Pencatatan waktu otomatis
+- Monitoring data kehadiran
+- Simulasi sistem administrasi berbasis cloud
+
+## 🧩 Fitur Utama
+- 📋 Form input absensi
+- 🕒 Timestamp otomatis
+- 🧑 Input data (Nama / NIM / Kelas)
+- 📊 Penyimpanan real-time ke Google Sheet
+- 🌐 Deployment sebagai Web App
+
+## 🔗 Akses Aplikasi
+https://script.google.com/macros/s/AKfycbxik-28c8YMcwmiXYkFEwycsmR9vfjftn5WVDXH1xsyQA8uBRw2GvMfuW3ZvaaKZRfb/exec
 
 ---
 
-## 🧩 Fitur Utama Web Kasir
-- Login (single role)
-- Input & pencarian produk
-- Perhitungan total otomatis
-- Penyimpanan transaksi ke Google Sheet
-- Cetak struk sederhana
-- Sheet khusus Barcode
-- Rekap transaksi
-
----
-
-## 🔗 Akses Aplikasi Web Kasir Kafe
-
-Klik logo di bawah ini untuk membuka aplikasi:
-
-[![Google Apps Script - Kasir Kafe](https://img.shields.io/badge/Google%20Apps%20Script-Kasir%20Kafe-34A853?style=for-the-badge&logo=google&logoColor=white)](https://script.google.com/macros/s/AKfycbxqiKO0f2RI_NTS637Gu4Btty5Cm8YqAYt_EQK4KEsw/dev)
-
----
-
-### 🧠 Catatan
-
-> Kedua proyek ini dibuat sebagai bagian dari pembelajaran dan pengembangan portofolio di bidang **Web Development, Cloud Automation, dan Data Handling**, dengan pendekatan praktikal yang menyerupai kebutuhan sistem di dunia nyata.
+# 🏗️ Arsitektur Umum Sistem
 
