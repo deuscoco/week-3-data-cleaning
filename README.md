@@ -47,8 +47,7 @@ Semua transaksi tersimpan otomatis ke Google Spreadsheet secara real-time.
 - 📡 Penyimpanan otomatis ke Google Sheet
 
 ## 🔗 Akses Aplikasi
-https://script.google.com/macros/s/AKfycbxcssr8hhE99XgHTMVu7EGjSgOZGXbr9alpuwiE7BHPmQ5eNOGPhIaXM5Aw6vH0vxjMcA/exec
----
+https://script.google.com/macros/s/AKfycbxT27WZaD-Wdr42AQCBnV0NaVNef5DUxKCxFXROtwu3Z5AUSZh8c26NRrC2hwm74EU0HQ/exec---
 
 # 📝 3️⃣ Web Absensi
 
@@ -70,8 +69,7 @@ Data absensi langsung tersimpan di Google Spreadsheet lengkap dengan timestamp.
 - 🌐 Deployment sebagai Web App
 
 ## 🔗 Akses Aplikasi
-https://script.google.com/macros/s/AKfycbxik-28c8YMcwmiXYkFEwycsmR9vfjftn5WVDXH1xsyQA8uBRw2GvMfuW3ZvaaKZRfb/exec
-
+https://script.google.com/macros/s/AKfycbxGa6JmjLnVn9ZnKKWlu_ONU-TVK6gRiOdExomNgyysas-L-EnW9thRsNX1w7pVpDqv/exec
 ---
 
 # 🏗️ Arsitektur Umum Sistem
